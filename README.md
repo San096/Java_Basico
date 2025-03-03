@@ -1,24 +1,18 @@
-# Java_Basico
-Comandos Basicos do java , retirado do curso :Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais
+## Getting Started
 
-# Comandos de entrada e saida 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Scanner 
+## Folder Structure
 
-System.out.print
-System.out.printf
-System.out.println
+The workspace contains two folders by default, where:
 
-   Para escrever na tela um texto qualquer
- Sem quebra de linha ao final:
- System.out.print("Bom dia!");
- Com quebra de linha ao final:
- System.out.println("Bom dia!");
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
- System.out.printf("RESULTADO = %.2f metros%n", x)
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
- 
+## Dependency Management
 
-
-
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
